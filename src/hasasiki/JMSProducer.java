@@ -60,3 +60,4 @@ public class JMSProducer {
 	}
 
 }
+//https://blog.csdn.net/qq_26504875/article/details/51802316
